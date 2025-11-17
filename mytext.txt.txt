@@ -1,0 +1,51 @@
+HTML
+1. Legen Sie in ihrem lokalen repo mit einem Texteditor eine Datei mit dem Namen mymap.html an.
+
+2. Öffnen Sie die Datei mit dem Texteditor und füllen Sie sie mit dem Grundgerüst jeder HTML Seite, die aus den Abschnitten head und body besteht. Diese Elemente können mit Programmcode befüllt werden, der zwischen < elementname > und < / elementname > steht.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+ 
+</body>
+</html>
+Download
+3. Fügen Sie in den body Teil eine Überschrift (mit h1) und einen Textparagraphen (mit p) mit einem Hyperlink (a) ein.
+Suchen Sie diese Elemente auf Hilfsseiten von Mozilla oder W3Schools.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+<!DOCTYPE html>
+<html>
+<head>
+ 
+</head>
+<body>
+<h1>This is a header</h1>
+<p>This is a paragraph of text with a <a href="https://uni-tuebingen.de/">hyperlink</a>.</p>
+</body>
+</html>
+Download
+4. Speichern Sie die Änderungen und öffnen Sie mymap.html mit einem Browser. Wird der Inhalt korrekt angezeigt?
+
+5. Wenn ja, committen und pushen Sie das lokale repo an das remote repo. Sie können die Datei jetzt vom Server abrufen. Sie ist unter http://www.accountname.github.com/repositoryname/mymap.html zu finden.
